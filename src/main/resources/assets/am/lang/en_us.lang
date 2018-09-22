@@ -1,0 +1,11 @@
+item.lesser_flux.name=Lesser Flux
+item.stable_flux.name=Stable Flux
+item.greater_flux.name=Greater Flux
+item.giga_flux.name=Giga Flux
+item.empty_rune.name=Empty Rune
+item.fire_rune.name=Fire Rune
+item.earth_rune.name=Earth Rune
+item.air_rune.name=Air Rune
+item.water_rune.name=Water Rune
+
+tile.lesser_flux_ore.name=Lesser Flux Ore
