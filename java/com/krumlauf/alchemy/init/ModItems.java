@@ -47,8 +47,9 @@ public class ModItems {
 	public static final Item FIRE_SPELL_TOME = new ItemBase("fire_spell_tome");
 	public static final Item WATER_SPELL_TOME = new ItemBase("water_spell_tome");
 	
-	//Ingots
+	//Ingots & Gems
 	public static final Item SPELLBOUND_INGOT = new ItemBase("spellbound_ingot");
+	public static final Item VOID_CRYSTAL = new ItemBase("void_crystal");
 	
 	
 	//Tools
