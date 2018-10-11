@@ -10,13 +10,15 @@ item.air_rune.name=Air Rune
 item.water_rune.name=Water Rune
 item.spellbound_ingot.name=Spellbound Ingot
 item.air_spell_tome.name=Air Spell Tome
-item.air_spell_tome.name=Earth Spell Tome
-item.air_spell_tome.name=Fire Spell Tome
-item.air_spell_tome.name=Water Spell Tome
+item.earth_spell_tome.name=Earth Spell Tome
+item.fire_spell_tome.name=Fire Spell Tome
+item.water_spell_tome.name=Water Spell Tome
 
 //Blocks
 tile.lesser_flux_ore.name=Lesser Flux Ore
 tile.spellbound_ore.name=Spellbound Ore
+tile.lava_touched_stone.name=Lava Touched Stone
+tile.water_touched_stone.name=Water Touched Stone
 
 //Tools
 item.spellbound_sword.name=Spellbound Sword
