@@ -13,12 +13,14 @@ item.air_spell_tome.name=Air Spell Tome
 item.earth_spell_tome.name=Earth Spell Tome
 item.fire_spell_tome.name=Fire Spell Tome
 item.water_spell_tome.name=Water Spell Tome
+item.void_crystal.name=Void Crystal
 
 //Blocks
 tile.lesser_flux_ore.name=Lesser Flux Ore
 tile.spellbound_ore.name=Spellbound Ore
 tile.lava_touched_stone.name=Lava Touched Stone
 tile.water_touched_stone.name=Water Touched Stone
+tile.void_crystal_ore.name=Void Crystal Ore
 
 //Tools
 item.spellbound_sword.name=Spellbound Sword
