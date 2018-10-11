@@ -23,7 +23,7 @@ public class ModWorldGen implements IWorldGenerator {
 	
 	private void generateOverworld(Random random, int chunkX, int chunkZ, World world, IChunkGenerator chunkGenerator, IChunkProvider chunkProvider) {
 		generateOre(ModBlocks.LESSER_FLUX_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(6) + 3, 15); //last 2 args: cluster of ore (max-min), and how common
-		generateOre(ModBlocks.SPELLBOUND_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 16, 55, random.nextInt(6) + 3, 12); //last 2 args: cluster of ore (max-min), and how common
+		generateOre(ModBlocks.SPELLBOUND_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 16, 55, random.nextInt(6) + 3, 9); //last 2 args: cluster of ore (max-min), and how common
 		// generateOre(ModBlocks.ORE_NAME.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(6) + 3, 14); //HOW YOU ADD MORE ORE and CHANGE LAST 2 ARGS
 		//...mininmum y, maximum y (keep below 64), clusters of ore, how common (1 = rarest, higher = common))
 	}

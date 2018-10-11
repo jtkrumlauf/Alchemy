@@ -8,16 +8,15 @@ import net.minecraft.block.material.Material;
 //Harvest Level: http://minecraftmodcustomstuff.wikia.com/wiki/HarvestLevel
 //Light Level: https://minecraft.gamepedia.com/Light
 
-public class SpellboundOre extends BlockBase{
+public class WaterTouchedStone extends BlockBase{
 
-	public SpellboundOre(String name, Material material) {
+	public WaterTouchedStone(String name, Material material) {
 		super(name, material);
 		
 		setSoundType(SoundType.STONE);
 		setHardness(3);
 		setResistance(15);
 		setHarvestLevel("pickaxe", 1); //setHarvestLevel(toolUsed, required level of tool)
-
 	}
 
 }

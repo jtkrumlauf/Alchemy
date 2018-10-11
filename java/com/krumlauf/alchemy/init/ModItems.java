@@ -41,8 +41,7 @@ public class ModItems {
 	public static final Item FIRE_RUNE = new ItemBase("fire_rune");
 	public static final Item WATER_RUNE = new ItemBase("water_rune");
 	public static final Item AIR_RUNE = new ItemBase("air_rune");
-	public static final Item EARTH_RUNE = new ItemBase("earth_rune");
-	
+	public static final Item EARTH_RUNE = new ItemBase("earth_rune");	
 	public static final Item AIR_SPELL_TOME = new ItemBase("air_spell_tome");
 	public static final Item EARTH_SPELL_TOME = new ItemBase("earth_spell_tome");
 	public static final Item FIRE_SPELL_TOME = new ItemBase("fire_spell_tome");
