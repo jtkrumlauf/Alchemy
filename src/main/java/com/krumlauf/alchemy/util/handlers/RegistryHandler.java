@@ -1,5 +1,6 @@
 package com.krumlauf.alchemy.util.handlers;
 
+import com.krumlauf.alchemy.Main;
 import com.krumlauf.alchemy.init.ModBlocks;
 import com.krumlauf.alchemy.init.ModItems;
 import com.krumlauf.alchemy.util.IHasModel;
@@ -10,6 +11,7 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.network.NetworkRegistry;
 
 @EventBusSubscriber
 public class RegistryHandler {
@@ -37,5 +39,7 @@ public class RegistryHandler {
 			}
 		}
 	}
+	
+	
 	
 }

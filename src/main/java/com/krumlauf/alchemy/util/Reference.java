@@ -9,4 +9,5 @@ public class Reference {
 	public static final String CLIENT_PROXY_CLASS = "com.krumlauf.alchemy.proxy.ClientProxy";
 	public static final String COMMON_PROXY_CLASS = "com.krumlauf.alchemy.proxy.CommonProxy";
 	
+	public static final int GUI_VOID_FURNACE = 0;
 }
