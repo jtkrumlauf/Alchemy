@@ -1,7 +1,7 @@
 # Alchemy
 
 ## Contributers
-- Justin T. Krumlauf (https://github.com/jtkrumlauf)
+- Justin T. Krumlauf - https://github.com/jtkrumlauf
 - Sam Kirby
 
 ## Links
