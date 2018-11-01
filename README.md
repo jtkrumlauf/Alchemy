@@ -10,6 +10,7 @@ Learn More: https://justinkrumlauf.me/projects/alchemy.html
 View Photos: https://justinkrumlauf.me/gallery/alchemy_photos.html
 
 ## Other/About
-- 3D Models created using [MrCrayfish Model Creator](https://mrcrayfish.com/tools?id=mc)
-- Textures made using Photoshop & MSPaint
+3D Models created using [MrCrayfish Model Creator](https://mrcrayfish.com/tools?id=mc)
+
+Textures made using Photoshop & MSPaint
 
